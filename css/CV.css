@@ -39,7 +39,7 @@ ul li a:hover{
 	float: left;
 	width: 200px;
 	height: auto;
-	margin-top: 20px;
+	margin-top: 13px;
 }
 
 .main{
@@ -61,7 +61,7 @@ ul li a:hover{
 .title{
 	color: #FEA000;
 	font-size: 40px;
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
